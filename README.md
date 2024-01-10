@@ -6,7 +6,7 @@
 ### <div align="center">Hi🙋‍♂️, I'm Bibek Roy</div>  
   
 
-- 🌳Pass-out from Siliguri Govt. Polytechnic  
+- 🌳 Doing B.Tech in computer Science & Engineering   
   
 
 - 🌱 I’m currently learning Web Development  
@@ -15,7 +15,7 @@
 - ❓ Don't ask me anything 😴  
   
 
-- ⚡ Fun fact: I'm a Guitarist  🎸  
+- ⚡ Fun fact: I'll act like I know webdev 😁  
   
 
 <br/>  
