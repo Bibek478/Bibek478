@@ -9,7 +9,7 @@
 - 🌳 Doing B.Tech in computer Science & Engineering   
   
 
-- 🌱 I’m currently learning Web Development  
+- 🌱 I’m currently learning Web Development at HVA
   
 
 - ❓ Don't ask me anything 😴  
