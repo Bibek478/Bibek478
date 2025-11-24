@@ -12,12 +12,6 @@
 - 🌱 I’m currently learning Web Development at HVA
   
 
-- ❓ Don't ask me anything 😴  
-  
-
-- ⚡ Fun fact: I'll act like I know webdev 😁  
-  
-
 <br/>  
 
 
